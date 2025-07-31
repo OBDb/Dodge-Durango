@@ -1,19 +1,23 @@
 { "commands": [
 { "hdr": "740", "rax": "4C0", "fcm1": true, "dbg": true, "cmd": {"22": "A0F1"}, "freq": 5,
   "signals": [
-    {"id": "DURANGO_TP_FL", "path": "Tires", "fmt": { "len": 8, "max": 101.49, "mul": 0.398, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
+    {"id": "DURANGO_TP_FL", "path": "Tires", "fmt": {          "len": 8, "max": 101.49,             "mul": 0.398,             "unit": "psi"     }, "name": "Front left tire pressure",    "suggestedMetric": "frontLeftTirePressure"},
+    {"id": "DURANGO_TT_FL", "path": "Tires", "fmt": {"bix": 8, "len": 8, "max": 205,    "min": -50,               "add": -50, "unit": "celsius" }, "name": "Front left tire temperature"}
   ]},
 { "hdr": "740", "rax": "4C0", "fcm1": true, "dbg": true, "cmd": {"22": "A0F2"}, "freq": 5,
   "signals": [
-    {"id": "DURANGO_TP_FR", "path": "Tires", "fmt": { "len": 8, "max": 101.49, "mul": 0.398, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
+    {"id": "DURANGO_TP_FR", "path": "Tires", "fmt": {          "len": 8, "max": 101.49,             "mul": 0.398,             "unit": "psi"     }, "name": "Front right tire pressure",    "suggestedMetric": "frontRightTirePressure"},
+    {"id": "DURANGO_TT_FR", "path": "Tires", "fmt": {"bix": 8, "len": 8, "max": 205,    "min": -50,               "add": -50, "unit": "celsius" }, "name": "Front right tire temperature"}
   ]},
 { "hdr": "740", "rax": "4C0", "fcm1": true, "dbg": true, "cmd": {"22": "A0F3"}, "freq": 5,
   "signals": [
-    {"id": "DURANGO_TP_RR", "path": "Tires", "fmt": { "len": 8, "max": 101.49, "mul": 0.398, "unit": "psi" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
+    {"id": "DURANGO_TP_RR", "path": "Tires", "fmt": {          "len": 8, "max": 101.49,             "mul": 0.398,             "unit": "psi"     }, "name": "Rear right tire pressure",    "suggestedMetric": "rearRightTirePressure"},
+    {"id": "DURANGO_TT_RR", "path": "Tires", "fmt": {"bix": 8, "len": 8, "max": 205,    "min": -50,               "add": -50, "unit": "celsius" }, "name": "Rear right tire temperature"}
   ]},
 { "hdr": "740", "rax": "4C0", "fcm1": true, "dbg": true, "cmd": {"22": "A0F4"}, "freq": 5,
   "signals": [
-    {"id": "DURANGO_TP_RL", "path": "Tires", "fmt": { "len": 8, "max": 101.49, "mul": 0.398, "unit": "psi" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
+    {"id": "DURANGO_TP_RL", "path": "Tires", "fmt": {          "len": 8, "max": 101.49,             "mul": 0.398,             "unit": "psi"     }, "name": "Rear left tire pressure",    "suggestedMetric": "rearLeftTirePressure"},
+    {"id": "DURANGO_TT_RL", "path": "Tires", "fmt": {"bix": 8, "len": 8, "max": 205,    "min": -50,               "add": -50, "unit": "celsius" }, "name": "Rear left tire temperature"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "04FE"}, "freq": 1,
   "signals": [
