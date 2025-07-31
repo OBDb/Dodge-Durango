@@ -58,6 +58,25 @@
           "13": { "description": "Park",         "value": "PARK" }
         }}
     }
+  ]},
+{ "hdr": "7E1", "rax": "7E9", "fcm1": true, "cmd": {"22": "5504"}, "freq": 1,
+  "signals": [
+    {"id": "DURANGO_GEAR_TARGET", "path": "Transmission", "name": "Target gear", "description": "The target gear.", "fmt": {"bix": 4, "len": 4, "map": {
+          "0":  { "description": "Neutral",      "value": "NEUTRAL" },
+          "1":  { "description": "First gear",   "value": "1" },
+          "2":  { "description": "Second gear",  "value": "2" },
+          "3":  { "description": "Third gear",   "value": "3" },
+          "4":  { "description": "Fourth gear",  "value": "4" },
+          "5":  { "description": "Fifth gear",   "value": "5" },
+          "6":  { "description": "Sixth gear",   "value": "6" },
+          "7":  { "description": "Seventh gear", "value": "7" },
+          "8":  { "description": "Eighth gear",  "value": "8" },
+          "9":  { "description": "Ninth gear",   "value": "9" },
+          "10": { "description": "Tenth gear",   "value": "10" },
+          "11": { "description": "Rear",         "value": "REAR" },
+          "13": { "description": "Park",         "value": "PARK" }
+        }}
+    }
   ]}
 ]
 }
