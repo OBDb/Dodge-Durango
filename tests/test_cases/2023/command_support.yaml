@@ -77,6 +77,7 @@ supported_commands_by_ecu:
   - 0149:APP_D
   - 7E1.7E9.2204FE:DURANGO_ATF_T
   - 7E1.7E9.225503|fc=1:DURANGO_GEAR
+  - 7E1.7E9.225504|fc=1:DURANGO_GEAR_TARGET
 unsupported_commands_by_ecu:
   "6B4":
   - 6B4.694.22D410
