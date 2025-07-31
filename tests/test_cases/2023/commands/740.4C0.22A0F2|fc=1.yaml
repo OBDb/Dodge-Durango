@@ -1,0 +1,8 @@
+command_id: 740.4C0.22A0F2|fc=1
+test_cases:
+- expected_values:
+    DURANGO_TP_FR: 35.422
+    DURANGO_TT_FR: 30
+  response: |-
+    4C0100862A0F2595001
+    4C02183DCA0F2595001
