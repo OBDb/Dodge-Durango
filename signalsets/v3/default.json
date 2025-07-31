@@ -19,7 +19,7 @@
     {"id": "DURANGO_TP_RL", "path": "Tires", "fmt": {          "len": 8, "max": 101.49,             "mul": 0.398,             "unit": "psi"     }, "name": "Rear left tire pressure",    "suggestedMetric": "rearLeftTirePressure"},
     {"id": "DURANGO_TT_RL", "path": "Tires", "fmt": {"bix": 8, "len": 8, "max": 205,    "min": -50,               "add": -50, "unit": "celsius" }, "name": "Rear left tire temperature"}
   ]},
-{ "hdr": "763", "rax": "4E3", "fcm1": true, "dbg": true, "cmd": {"22": "032D"}, "freq": 0.25,
+{ "hdr": "763", "rax": "4E3", "fcm1": true, "cmd": {"22": "032D"}, "freq": 0.25,
   "signals": [
     {"id": "DURANGO_REAR_WIPER", "path": "Control", "name": "Rear wiper", "fmt": {"bix": 12, "len": 4, "map": {
           "0": { "description": "Off",   "value": "OFF" },
