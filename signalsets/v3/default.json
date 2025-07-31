@@ -1,11 +1,15 @@
 { "commands": [
+{ "hdr": "740", "rax": "4C0", "fcm1": true, "dbg": true, "cmd": {"22": "A0F1"}, "freq": 5,
+  "signals": [
+    {"id": "DURANGO_TP_FL", "path": "Tires", "fmt": { "len": 8, "max": 101.49, "mul": 0.398, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
+  ]},
+{ "hdr": "740", "rax": "4C0", "fcm1": true, "dbg": true, "cmd": {"22": "A0F2"}, "freq": 5,
+  "signals": [
+    {"id": "DURANGO_TP_FR", "path": "Tires", "fmt": { "len": 8, "max": 101.49, "mul": 0.398, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
+  ]},
 { "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "04FE"}, "freq": 1,
   "signals": [
     {"id": "DURANGO_ATF_T", "path": "Transmission", "fmt": { "len": 8, "max": 300, "min": -30, "mul": 1.8, "add": -40, "unit": "fahrenheit" }, "name": "Transmission temperature (var.1)"}
-  ]},
-{ "hdr": "740", "rax": "4C0", "fcm1": true, "dbg": true, "cmd": {"22": "A0F1"}, "freq": 5,
-  "signals": [
-    {"id": "DURANGO_TP_FL", "path": "Tires", "fmt": { "len": 8, "max": 101.49, "mul": 0.398, "unit": "psi" }, "name": "Front left tire pressure"}
   ]}
 ]
 }
