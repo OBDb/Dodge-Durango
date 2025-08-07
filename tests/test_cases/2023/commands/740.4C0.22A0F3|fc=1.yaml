@@ -6,3 +6,9 @@ test_cases:
   response: |-
     4C0100862A0F3524B01
     4C02183DCA0F3524B01
+- expected_values:
+    DURANGO_TP_RR: 33.83
+    DURANGO_TT_RR: 32
+  response: |-
+    4C0100862A0F3555201
+    4C02182DCA0F3555201
