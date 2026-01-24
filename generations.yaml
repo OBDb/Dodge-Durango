@@ -1,0 +1,18 @@
+references:
+  - "https://en.wikipedia.org/wiki/Dodge_Durango"
+
+generations:
+  - name: "First Generation (DN)"
+    start_year: 1998
+    end_year: 2003
+    description: "Introduced for the 1998 model year and produced through 2003. Based on the Dodge Dakota platform with body-on-frame construction. Built at Newark Assembly Plant in Delaware. Featured up to 7-8 passengers with various engine options including 3.9L V6 and V8 engines (5.2L, 5.9L)."
+
+  - name: "Second Generation (HB)"
+    start_year: 2004
+    end_year: 2009
+    description: "Introduced for the 2004 model year with production ending in December 2008. Enlarged platform with 7 inches longer, 2 inches wider, and 3 inches taller than the first generation. Maintained body-on-frame construction with new coil-spring rear suspension. Available engines included 3.7L V6, 4.7L V8, and 5.7L Hemi V8. A hybrid variant was introduced for 2009 but discontinued shortly after. Also sold as Chrysler Aspen (2007-2009)."
+
+  - name: "Third Generation (WD)"
+    start_year: 2011
+    end_year: null
+    description: "Revived for the 2011 model year after a two-year hiatus. Built on the Jeep Grand Cherokee platform with unibody construction instead of body-on-frame. Assembled at Jefferson North Assembly Plant in Detroit, Michigan. Features three rows of seating and optional 5.7L Hemi V8 alongside the 3.6L Pentastar V6 base engine. Includes major refresh for 2014 with eight-speed transmission, 2018 SRT trim with 6.4L Hemi, and 2021 SRT Hellcat variant with supercharged 6.2L V8."
