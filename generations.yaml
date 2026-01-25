@@ -14,5 +14,15 @@ generations:
 
   - name: "Third Generation (WD)"
     start_year: 2011
+    end_year: 2013
+    description: "Revived for the 2011 model year after a two-year hiatus. Built on the Jeep Grand Cherokee platform with unibody construction instead of body-on-frame. Assembled at Jefferson North Assembly Plant in Detroit, Michigan. Features three rows of seating and optional 5.7L Hemi V8 alongside the 3.6L Pentastar V6 base engine. Production began December 14, 2010 at Jefferson North Assembly Plant."
+
+  - name: "Third Generation (WD) 2014 Refresh"
+    start_year: 2014
+    end_year: 2020
+    description: "Major redesign for 2014 with sportier-looking lines, eight-speed automatic transmission, and new design trim. Updated styling including revised grille, redesigned taillights with LED 'Racetrack' tail lamps, new steering wheel, instrument cluster, and rotary shift knob. For 2016 added Pentastar V6 upgrade with Stop/Start and variable valve lift technology. For 2018, received new Uconnect radios, second-generation ZF 8-speed automatic transmission with T-grip handle, and more sporty steering wheel."
+
+  - name: "Third Generation (WD) 2021 Refresh"
+    start_year: 2021
     end_year: null
-    description: "Revived for the 2011 model year after a two-year hiatus. Built on the Jeep Grand Cherokee platform with unibody construction instead of body-on-frame. Assembled at Jefferson North Assembly Plant in Detroit, Michigan. Features three rows of seating and optional 5.7L Hemi V8 alongside the 3.6L Pentastar V6 base engine. Includes major refresh for 2014 with eight-speed transmission, 2018 SRT trim with 6.4L Hemi, and 2021 SRT Hellcat variant with supercharged 6.2L V8."
+    description: "Updated exterior styling with revised bumper and headlights, three grille textures, and six new wheel designs. New interior features including new instrument panel with Uconnect 5; 8.4-inch screen standard on SXT and GT models, 10.1-inch touchscreen on R/T and Citadel models. SRT Hellcat model with 710 hp supercharged 6.2L Hemi V8 was available for 2021 only before discontinuation due to emissions requirements; returned for 2023 model year. Following discontinuation of Dodge Journey, Durango became the only SUV in Dodge lineup as of 2021."
