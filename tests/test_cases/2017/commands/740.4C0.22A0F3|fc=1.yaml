@@ -1,8 +1,62 @@
 command_id: 740.4C0.22A0F3|fc=1
 test_cases:
 - expected_values:
+    DURANGO_TP_RR: 29.85
+    DURANGO_TT_RR: 0
+  response: |-
+    4C0100862A0F34B3223
+    4C0210BDCA0F34B3223
+- expected_values:
+    DURANGO_TP_RR: 29.85
+    DURANGO_TT_RR: 0
+  response: |-
+    4C0100862A0F34B3255
+    4C0210BDFA0F34B3255
+- expected_values:
+    DURANGO_TP_RR: 29.85
+    DURANGO_TT_RR: 1
+  response: |-
+    4C0100862A0F34B3390
+    4C0210BDCA0F34B3390
+- expected_values:
+    DURANGO_TP_RR: 30.248
+    DURANGO_TT_RR: 2
+  response: |-
+    4C0100862A0F34C34FF
+    4C0210BDFA0F34C34FF
+- expected_values:
+    DURANGO_TP_RR: 31.442
+    DURANGO_TT_RR: 5
+  response: |-
+    4C0100862A0F34F3716
+    4C0210BDCA0F34F3716
+- expected_values:
     DURANGO_TP_RR: 34.626
     DURANGO_TT_RR: -3
   response: |-
     4C0100862A0F3572F23
     4C021C3DCA0F3572F23
+- expected_values:
+    DURANGO_TP_RR: 34.626
+    DURANGO_TT_RR: 6
+  response: |-
+    4C0100862A0F3573801
+    4C021E3DCA0F3573801
+- expected_values:
+    DURANGO_TP_RR: 37.81
+    DURANGO_TT_RR: 6
+  response: |-
+    4C0100862A0F35F3811
+    4C021C1DCA0F35F3811
+- expected_values:
+    DURANGO_TP_RR: 38.606
+    DURANGO_TT_RR: 7
+  response: |-
+    4C0100862A0F3613901
+    4C021E3DCA0F3613901
+- expected_values:
+    DURANGO_TP_RR: 38.606
+    DURANGO_TT_RR: 8
+  response: |-
+    4C0100862A0F3613A10
+    4C0210BDFA0F3613A10
