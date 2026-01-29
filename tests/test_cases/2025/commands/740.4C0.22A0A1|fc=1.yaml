@@ -1,0 +1,26 @@
+command_id: 740.4C0.22A0A1|fc=1
+test_cases:
+- expected_values:
+    DURANGO_TP_FL_AC: 36
+    DURANGO_TP_FR_AC: 37
+    DURANGO_TP_RL_AC: 36
+    DURANGO_TP_RR_AC: 35
+  response: |-
+    4C0100962A0A1242523
+    4C02124FF65A1242523
+- expected_values:
+    DURANGO_TP_FL_AC: 39
+    DURANGO_TP_FR_AC: 40
+    DURANGO_TP_RL_AC: 39
+    DURANGO_TP_RR_AC: 39
+  response: |-
+    4C0100962A0A1272827
+    4C02127FF63A1272827
+- expected_values:
+    DURANGO_TP_FL_AC: 40
+    DURANGO_TP_FR_AC: 40
+    DURANGO_TP_RL_AC: 40
+    DURANGO_TP_RR_AC: 40
+  response: |-
+    4C0100962A0A1282828
+    4C02128FF64A1282828

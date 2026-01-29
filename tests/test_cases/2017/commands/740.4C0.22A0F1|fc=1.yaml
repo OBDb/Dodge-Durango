@@ -1,0 +1,8 @@
+command_id: 740.4C0.22A0F1|fc=1
+test_cases:
+- expected_values:
+    DURANGO_TP_FL: 33.83
+    DURANGO_TT_FL: -4
+  response: |-
+    4C0100862A0F1552E23
+    4C021C3DCA0F1552E23
