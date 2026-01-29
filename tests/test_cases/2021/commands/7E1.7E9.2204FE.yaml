@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.2204FE
+test_cases:
+- expected_values:
+    DURANGO_ATF_T: 71.6
+  response: 7E9066204FE3E3D3D
+- expected_values:
+    DURANGO_ATF_T: 194
+  response: 7E9066204FE828584
+- expected_values:
+    DURANGO_ATF_T: 197.6
+  response: 7E9066204FE848483
+- expected_values:
+    DURANGO_ATF_T: 197.6
+  response: 7E9066204FE848684

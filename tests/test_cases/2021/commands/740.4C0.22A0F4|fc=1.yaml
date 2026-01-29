@@ -1,0 +1,92 @@
+command_id: 740.4C0.22A0F4|fc=1
+test_cases:
+- expected_values:
+    DURANGO_TP_RL: 37.412
+    DURANGO_TT_RL: 2
+  response: |-
+    4C0100862A0F45E340E
+    4C02103DCA0F45E340E
+- expected_values:
+    DURANGO_TP_RL: 37.412
+    DURANGO_TT_RL: 2
+  response: |-
+    4C0100862A0F45E3439
+    4C0210BDEA0F45E3439
+- expected_values:
+    DURANGO_TP_RL: 37.81
+    DURANGO_TT_RL: 2
+  response: |-
+    4C0100862A0F45F342D
+    4C0210BDEA0F45F342D
+- expected_values:
+    DURANGO_TP_RL: 37.81
+    DURANGO_TT_RL: 3
+  response: |-
+    4C0100862A0F45F3533
+    4C0210BDFA0F45F3533
+- expected_values:
+    DURANGO_TP_RL: 37.81
+    DURANGO_TT_RL: 3
+  response: |-
+    4C0100862A0F45F357F
+    4C0210BDEA0F45F357F
+- expected_values:
+    DURANGO_TP_RL: 38.208
+    DURANGO_TT_RL: 3
+  response: |-
+    4C0100862A0F460357E
+    4C0210BDCA0F460357E
+- expected_values:
+    DURANGO_TP_RL: 38.208
+    DURANGO_TT_RL: 4
+  response: |-
+    4C0100862A0F46036FF
+    4C0210BDCA0F46036FF
+- expected_values:
+    DURANGO_TP_RL: 38.606
+    DURANGO_TT_RL: 4
+  response: |-
+    4C0100862A0F4613640
+    4C0210BDFA0F4613640
+- expected_values:
+    DURANGO_TP_RL: 39.402
+    DURANGO_TT_RL: 12
+  response: |-
+    4C0100862A0F4633EFF
+    4C0210BDEA0F4633EFF
+- expected_values:
+    DURANGO_TP_RL: 39.8
+    DURANGO_TT_RL: 12
+  response: |-
+    4C0100862A0F4643EAD
+    4C021C3DCA0F4643EAD
+- expected_values:
+    DURANGO_TP_RL: 40.596
+    DURANGO_TT_RL: 14
+  response: |-
+    4C0100862A0F46640E9
+    4C0210BDCA0F46640E9
+- expected_values:
+    DURANGO_TP_RL: 40.994
+    DURANGO_TT_RL: 19
+  response: |-
+    4C0100862A0F46745FF
+    4C021C1DCA0F46745FF
+- expected_values:
+    DURANGO_TP_RL: 40.994
+    DURANGO_TT_RL: 22
+  response: |-
+    4C0100862A0F4674801
+    4C02182DCA0F4674801
+- expected_values:
+    DURANGO_TP_RL: 42.188
+    DURANGO_TT_RL: 28
+  response: |-
+    4C0100862A0F46A4EFF
+    4C021C3DCA0F46A4EFF
+- expected_values:
+    DURANGO_TP_RL: 42.586
+    DURANGO_TT_RL: 24
+  response: |-
+    4C0100862A0F46B4A2D
+    4C021C3DCA0F46B4A2D
