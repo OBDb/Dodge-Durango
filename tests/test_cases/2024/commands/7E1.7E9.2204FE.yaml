@@ -1,8 +1,40 @@
 command_id: 7E1.7E9.2204FE
 test_cases:
 - expected_values:
+    DURANGO_ATF_T: 163.4
+  response: 7E9066204FE717575
+- expected_values:
     DURANGO_ATF_T: 165.2
   response: 7E9066204FE727172
+- expected_values:
+    DURANGO_ATF_T: 168.8
+  response: |-
+    7E9066204FE747475
+    7E904410C1398
+    7E903410D09
+    7E904410C1394
+- expected_values:
+    DURANGO_ATF_T: 172.4
+  response: |-
+    7E9066204FE767676
+    7E904410C1850
+    7E903410D0D
+- expected_values:
+    DURANGO_ATF_T: 176
+  response: |-
+    7E9066204FE787778
+    7E904410C1604
+    7E903410D1B
+- expected_values:
+    DURANGO_ATF_T: 177.8
+  response: |-
+    7E9066204FE797879
+    7E904410C1304
+- expected_values:
+    DURANGO_ATF_T: 177.8
+  response: |-
+    7E9066204FE797879
+    7E904410C1F80
 - expected_values:
     DURANGO_ATF_T: 190.4
   response: 7E9066204FE808080
