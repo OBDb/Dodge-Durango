@@ -4,23 +4,11 @@ test_cases:
     DURANGO_ATF_T: 165.2
   response: 7E9066204FE727172
 - expected_values:
-    DURANGO_ATF_T: 167
-  response: 7E9066204FE737172
+    DURANGO_ATF_T: 190.4
+  response: 7E9066204FE808080
 - expected_values:
-    DURANGO_ATF_T: 167
-  response: 7E9066204FE737273
+    DURANGO_ATF_T: 190.4
+  response: 7E9066204FE808081
 - expected_values:
-    DURANGO_ATF_T: 168.8
-  response: 7E9066204FE747373
-- expected_values:
-    DURANGO_ATF_T: 168.8
-  response: 7E9066204FE747374
-- expected_values:
-    DURANGO_ATF_T: 170.6
-  response: 7E9066204FE757375
-- expected_values:
-    DURANGO_ATF_T: 170.6
-  response: 7E9066204FE757475
-- expected_values:
-    DURANGO_ATF_T: 172.4
-  response: 7E9066204FE767576
+    DURANGO_ATF_T: 192.2
+  response: 7E9066204FE818080
