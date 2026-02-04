@@ -1,0 +1,26 @@
+command_id: 763.4E3.22032D|fc=1
+test_cases:
+- expected_values:
+    DURANGO_HIGHBEAMS_ON: 0
+    DURANGO_REAR_WIPER: 'OFF'
+  response: |-
+    4E3100862032D042000
+    4E3210010032D042000
+- expected_values:
+    DURANGO_HIGHBEAMS_ON: 0
+    DURANGO_REAR_WIPER: 'OFF'
+  response: |-
+    4E3100862032D080000
+    4E3210010032D080000
+- expected_values:
+    DURANGO_HIGHBEAMS_ON: 0
+    DURANGO_REAR_WIPER: AUTO
+  response: |-
+    4E3100862032D080200
+    4E3210010032D080200
+- expected_values:
+    DURANGO_HIGHBEAMS_ON: 0
+    DURANGO_REAR_WIPER: 'OFF'
+  response: |-
+    4E3100862032D081000
+    4E3210010032D081000
