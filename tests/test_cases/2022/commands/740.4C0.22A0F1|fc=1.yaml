@@ -1,0 +1,86 @@
+command_id: 740.4C0.22A0F1|fc=1
+test_cases:
+- expected_values:
+    DURANGO_TP_FL: 34.626
+    DURANGO_TT_FL: 24
+  response: |-
+    4C0100862A0F1574A0F
+    4C02103DCA0F1574A0F
+- expected_values:
+    DURANGO_TP_FL: 34.626
+    DURANGO_TT_FL: 24
+  response: |-
+    4C0100862A0F1574A44
+    4C0210BDEA0F1574A44
+- expected_values:
+    DURANGO_TP_FL: 34.626
+    DURANGO_TT_FL: 24
+  response: |-
+    4C0100862A0F1574A72
+    4C0210BDFA0F1574A72
+- expected_values:
+    DURANGO_TP_FL: 35.422
+    DURANGO_TT_FL: 32
+  response: |-
+    4C0100862A0F1595201
+    4C02183DCA0F1595201
+- expected_values:
+    DURANGO_TP_FL: 35.82
+    DURANGO_TT_FL: 31
+  response: |-
+    4C0100862A0F15A5130
+    4C0210BDCA0F15A5130
+- expected_values:
+    DURANGO_TP_FL: 37.014
+    DURANGO_TT_FL: 40
+  response: |-
+    4C0100862A0F15D5A22
+    4C021C3DCA0F15D5A22
+- expected_values:
+    DURANGO_TP_FL: 37.014
+    DURANGO_TT_FL: 40
+  response: |-
+    4C0100862A0F15D5AFF
+    4C021C3DCA0F15D5AFF
+- expected_values:
+    DURANGO_TP_FL: 37.81
+    DURANGO_TT_FL: 44
+  response: |-
+    4C0100862A0F15F5E01
+    4C02181DCA0F15F5E01
+- expected_values:
+    DURANGO_TP_FL: 37.81
+    DURANGO_TT_FL: 45
+  response: |-
+    4C0100862A0F15F5F84
+    4C021C3DCA0F15F5F84
+- expected_values:
+    DURANGO_TP_FL: 37.81
+    DURANGO_TT_FL: 46
+  response: |-
+    4C0100862A0F15F6068
+    4C021C3DCA0F15F6068
+- expected_values:
+    DURANGO_TP_FL: 38.208
+    DURANGO_TT_FL: 42
+  response: |-
+    4C0100862A0F1605C08
+    4C02103DCA0F1605C08
+- expected_values:
+    DURANGO_TP_FL: 38.208
+    DURANGO_TT_FL: 46
+  response: |-
+    4C0100862A0F160600C
+    4C02103DCA0F160600C
+- expected_values:
+    DURANGO_TP_FL: 39.004
+    DURANGO_TT_FL: 49
+  response: |-
+    4C0100862A0F162631A
+    4C021C3DCA0F162631A
+- expected_values:
+    DURANGO_TP_FL: 39.004
+    DURANGO_TT_FL: 53
+  response: |-
+    4C0100862A0F1626734
+    4C021C2DCA0F1626734
