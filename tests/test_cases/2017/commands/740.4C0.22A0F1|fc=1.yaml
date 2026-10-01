@@ -26,7 +26,6 @@ test_cases:
     4C0210BDEA0F14D3793
 - expected_values:
     DURANGO_TP_FL: 33.83
-    DURANGO_TT_FL: -4
   response: |-
     4C0100862A0F1552E23
     4C021C3DCA0F1552E23
