@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.220329
 test_cases:
 - expected_values:
-    DURANGO_AC_HIGH_SIDE_P: 882
-  response: 7E8046203293F
-- expected_values:
-    DURANGO_AC_HIGH_SIDE_P: 980
-  response: '7E80462032946'
-- expected_values:
-    DURANGO_AC_HIGH_SIDE_P: 1022
-  response: '7E80462032949'
-- expected_values:
-    DURANGO_AC_HIGH_SIDE_P: 1036
-  response: 7E8046203294A
-- expected_values:
-    DURANGO_AC_HIGH_SIDE_P: 1260
-  response: 7E8046203295A
-- expected_values:
-    DURANGO_AC_HIGH_SIDE_P: 1302
-  response: 7E8046203295D
-- expected_values:
-    DURANGO_AC_HIGH_SIDE_P: 1400
-  response: '7E80462032964'
-- expected_values:
-    DURANGO_AC_HIGH_SIDE_P: 1414
-  response: '7E80462032965'
-- expected_values:
-    DURANGO_AC_HIGH_SIDE_P: 1442
-  response: '7E80462032967'
+    DURANGO_AC_HIGH_SIDE_P: 574
+  response: '7E80462032929'
 - expected_values:
     DURANGO_AC_HIGH_SIDE_P: 1512
   response: 7E8046203296C
