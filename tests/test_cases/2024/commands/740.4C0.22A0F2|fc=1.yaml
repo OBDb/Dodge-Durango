@@ -1,6 +1,12 @@
 command_id: 740.4C0.22A0F2|fc=1
 test_cases:
 - expected_values:
+    DURANGO_TP_FR: 31.442
+    DURANGO_TT_FR: 13
+  response: |-
+    4C0100862A0F24F3F20
+    4C0210BDFA0F24F3F20
+- expected_values:
     DURANGO_TP_FR: 41.392
     DURANGO_TT_FR: 14
   response: |-
@@ -18,12 +24,6 @@ test_cases:
   response: |-
     4C0100862A0F269403C
     4C0210BDCA0F269403C
-- expected_values:
-    DURANGO_TP_FR: 41.79
-    DURANGO_TT_FR: 14
-  response: |-
-    4C0100862A0F269405C
-    4C0210BDFA0F269405C
 - expected_values:
     DURANGO_TP_FR: 41.79
     DURANGO_TT_FR: 16
