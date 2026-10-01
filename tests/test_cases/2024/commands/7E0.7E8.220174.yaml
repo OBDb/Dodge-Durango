@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220174
+test_cases:
+- expected_values:
+    DURANGO_MAP: 40.4
+  response: 7E80562017400CA
+- expected_values:
+    DURANGO_MAP: 40.8
+  response: 7E80562017400CC
+- expected_values:
+    DURANGO_MAP: 41
+  response: 7E80562017400CD
+- expected_values:
+    DURANGO_MAP: 41.4
+  response: 7E80562017400CF
+- expected_values:
+    DURANGO_MAP: 42
+  response: 7E80562017400D2
+- expected_values:
+    DURANGO_MAP: 49
+  response: 7E80562017400F5
+- expected_values:
+    DURANGO_MAP: 49.4
+  response: 7E80562017400F7
+- expected_values:
+    DURANGO_MAP: 49.6
+  response: 7E80562017400F8
