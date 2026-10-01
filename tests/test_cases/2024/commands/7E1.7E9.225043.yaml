@@ -24,3 +24,9 @@ test_cases:
 - expected_values:
     DURANGO_ATF_T_7E1: 74
   response: '7E90462504372'
+- expected_values:
+    DURANGO_ATF_T_7E1: 79
+  response: '7E90462504377'
+- expected_values:
+    DURANGO_ATF_T_7E1: 82
+  response: 7E9046250437A

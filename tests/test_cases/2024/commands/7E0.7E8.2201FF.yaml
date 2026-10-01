@@ -13,5 +13,20 @@ test_cases:
     DURANGO_IAT_01FF: 33
   response: 7E8056201FF0061
 - expected_values:
+    DURANGO_IAT_01FF: 38
+  response: 7E8056201FF0066
+- expected_values:
+    DURANGO_IAT_01FF: 40
+  response: 7E8056201FF0068
+- expected_values:
+    DURANGO_IAT_01FF: 41
+  response: 7E8056201FF0069
+- expected_values:
+    DURANGO_IAT_01FF: 47
+  response: 7E8056201FF006F
+- expected_values:
     DURANGO_IAT_01FF: 48
   response: 7E8056201FF0070
+- expected_values:
+    DURANGO_IAT_01FF: 49
+  response: 7E8056201FF0071
