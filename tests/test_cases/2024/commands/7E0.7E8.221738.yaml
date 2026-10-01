@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     DURANGO_FR_WHL_SPD: 0
   response: '7E8056217380000'
+- expected_values:
+    DURANGO_FR_WHL_SPD: 31.5
+  response: 7E80562173807E0

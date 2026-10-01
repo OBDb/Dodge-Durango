@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.220127
 test_cases:
 - expected_values:
+    DURANGO_AAT: 53.8
+  response: 7E8046201274C
+- expected_values:
+    DURANGO_AAT: 55.6
+  response: 7E8046201274D
+- expected_values:
     DURANGO_AAT: 57.4
   response: 7E8046201274E
 - expected_values:
