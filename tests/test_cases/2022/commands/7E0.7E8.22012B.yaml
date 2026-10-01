@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22012B
+test_cases:
+- expected_values:
+    DURANGO_CAT_MODEL_T: 476
+  response: 7E80562012B01DC
+- expected_values:
+    DURANGO_CAT_MODEL_T: 510
+  response: 7E80562012B01FE
+- expected_values:
+    DURANGO_CAT_MODEL_T: 514
+  response: 7E80562012B0202
+- expected_values:
+    DURANGO_CAT_MODEL_T: 772
+  response: 7E80562012B0304
