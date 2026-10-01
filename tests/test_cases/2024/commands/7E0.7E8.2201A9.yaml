@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     DURANGO_KNOCK_SENS_1: 0.44434
   response: 7E8056201A916C0
+- expected_values:
+    DURANGO_KNOCK_SENS_1: 0.55177
+  response: 7E8056201A91C40

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.220236
 test_cases:
 - expected_values:
+    DURANGO_INJ_WIDTH_CYL_3: 1.616
+  response: '7E80762023600000650'
+- expected_values:
     DURANGO_INJ_WIDTH_CYL_3: 1.968
   response: 7E807620236000007B0
 - expected_values:

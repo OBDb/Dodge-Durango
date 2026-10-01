@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     DURANGO_VARIABLE_VLV_TIM_OIL_P: 232
   response: 7E80462069E3A
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_P: 564
+  response: 7E80462069E8D
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_P: 568
+  response: 7E80462069E8E
