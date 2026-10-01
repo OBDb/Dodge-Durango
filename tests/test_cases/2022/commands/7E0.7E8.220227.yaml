@@ -2,31 +2,7 @@ command_id: 7E0.7E8.220227
 test_cases:
 - expected_values:
     DURANGO_FLI_INPUT: 100
-  response: 7E8046202279E
-- expected_values:
-    DURANGO_FLI_INPUT: 100
-  response: 7E8046202279F
-- expected_values:
-    DURANGO_FLI_INPUT: 100
-  response: 7E804620227A0
-- expected_values:
-    DURANGO_FLI_INPUT: 100
-  response: 7E804620227A1
-- expected_values:
-    DURANGO_FLI_INPUT: 100
-  response: 7E804620227A2
-- expected_values:
-    DURANGO_FLI_INPUT: 100
-  response: 7E804620227A3
-- expected_values:
-    DURANGO_FLI_INPUT: 100
-  response: 7E804620227A4
-- expected_values:
-    DURANGO_FLI_INPUT: 100
-  response: 7E804620227A5
-- expected_values:
-    DURANGO_FLI_INPUT: 100
-  response: 7E804620227A6
+  response: '7E80462022797'
 - expected_values:
     DURANGO_FLI_INPUT: 100
   response: 7E804620227A7

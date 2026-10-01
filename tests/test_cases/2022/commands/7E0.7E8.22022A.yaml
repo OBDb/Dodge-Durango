@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     DURANGO_EOP: 31.32
   response: 7E80462022A36
+- expected_values:
+    DURANGO_EOP: 81.78
+  response: 7E80462022A8D
+- expected_values:
+    DURANGO_EOP: 82.36
+  response: 7E80462022A8E
