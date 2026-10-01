@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220329
+test_cases:
+- expected_values:
+    DURANGO_AC_HIGH_SIDE_P: 616
+  response: 7E8046203292C
+- expected_values:
+    DURANGO_AC_HIGH_SIDE_P: 1708
+  response: 7E8046203297A
