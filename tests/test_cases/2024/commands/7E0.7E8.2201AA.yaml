@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2201AA
+test_cases:
+- expected_values:
+    DURANGO_KNOCK_SENS_2: 0.33692
+  response: 7E8056201AA1140
+- expected_values:
+    DURANGO_KNOCK_SENS_2: 0.36622
+  response: 7E8056201AA12C0
+- expected_values:
+    DURANGO_KNOCK_SENS_2: 0.37598
+  response: 7E8056201AA1340
+- expected_values:
+    DURANGO_KNOCK_SENS_2: 0.38575
+  response: 7E8056201AA13C0
+- expected_values:
+    DURANGO_KNOCK_SENS_2: 0.39063
+  response: 7E8056201AA1400
+- expected_values:
+    DURANGO_KNOCK_SENS_2: 0.4004
+  response: 7E8056201AA1480
+- expected_values:
+    DURANGO_KNOCK_SENS_2: 0.41505
+  response: 7E8056201AA1540
+- expected_values:
+    DURANGO_KNOCK_SENS_2: 0.44434
+  response: 7E8056201AA16C0

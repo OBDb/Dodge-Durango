@@ -1,17 +1,17 @@
 command_id: 740.4C0.22A0F3|fc=1
 test_cases:
 - expected_values:
+    DURANGO_TP_RR: 33.432
+    DURANGO_TT_RR: 13
+  response: |-
+    4C0100862A0F3543F15
+    4C0210BDEA0F3543F15
+- expected_values:
     DURANGO_TP_RR: 39.004
     DURANGO_TT_RR: 13
   response: |-
     4C0100862A0F3623F10
     4C02103DCA0F3623F10
-- expected_values:
-    DURANGO_TP_RR: 39.004
-    DURANGO_TT_RR: 13
-  response: |-
-    4C0100862A0F3623F6C
-    4C0210BDCA0F3623F6C
 - expected_values:
     DURANGO_TP_RR: 39.004
     DURANGO_TT_RR: 13
