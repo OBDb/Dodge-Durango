@@ -4,8 +4,8 @@ test_cases:
     DURANGO_INT_CAM_1_OFFSET: 0.2
   response: 7E8056206C20002
 - expected_values:
-    DURANGO_INT_CAM_1_OFFSET: 0.3
-  response: 7E8056206C20003
+    DURANGO_INT_CAM_1_OFFSET: 23.3
+  response: 7E8056206C200E9
 - expected_values:
-    DURANGO_INT_CAM_1_OFFSET: 14.7
-  response: 7E8056206C20093
+    DURANGO_INT_CAM_1_OFFSET: 56.8
+  response: 7E8056206C20238

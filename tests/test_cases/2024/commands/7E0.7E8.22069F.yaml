@@ -4,5 +4,5 @@ test_cases:
     DURANGO_VARIABLE_VLV_TIM_OIL_T: 64
   response: 7E80462069F80
 - expected_values:
-    DURANGO_VARIABLE_VLV_TIM_OIL_T: 74
-  response: 7E80462069F8A
+    DURANGO_VARIABLE_VLV_TIM_OIL_T: 83
+  response: 7E80462069F93

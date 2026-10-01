@@ -4,5 +4,29 @@ test_cases:
     DURANGO_RR_WHL_SPD: 0
   response: 7E80562173A0000
 - expected_values:
+    DURANGO_RR_WHL_SPD: 28.96875
+  response: 7E80562173A073E
+- expected_values:
+    DURANGO_RR_WHL_SPD: 31.42188
+  response: 7E80562173A07DB
+- expected_values:
     DURANGO_RR_WHL_SPD: 31.64062
   response: 7E80562173A07E9
+- expected_values:
+    DURANGO_RR_WHL_SPD: 73.54688
+  response: 7E80562173A1263
+- expected_values:
+    DURANGO_RR_WHL_SPD: 79.17188
+  response: 7E80562173A13CB
+- expected_values:
+    DURANGO_RR_WHL_SPD: 79.23438
+  response: 7E80562173A13CF
+- expected_values:
+    DURANGO_RR_WHL_SPD: 79.65625
+  response: 7E80562173A13EA
+- expected_values:
+    DURANGO_RR_WHL_SPD: 80.64062
+  response: 7E80562173A1429
+- expected_values:
+    DURANGO_RR_WHL_SPD: 80.71875
+  response: 7E80562173A142E

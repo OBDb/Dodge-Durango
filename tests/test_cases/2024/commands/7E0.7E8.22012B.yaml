@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     DURANGO_CAT_MODEL_T: 518
   response: 7E80562012B0206
+- expected_values:
+    DURANGO_CAT_MODEL_T: 812
+  response: 7E80562012B032C

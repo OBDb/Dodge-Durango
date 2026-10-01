@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     DURANGO_AAT: 59.2
   response: 7E8046201274F
+- expected_values:
+    DURANGO_AAT: 61
+  response: '7E80462012750'
+- expected_values:
+    DURANGO_AAT: 62.8
+  response: '7E80462012751'
+- expected_values:
+    DURANGO_AAT: 64.6
+  response: '7E80462012752'
+- expected_values:
+    DURANGO_AAT: 68.2
+  response: '7E80462012754'

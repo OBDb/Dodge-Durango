@@ -14,4 +14,16 @@ test_cases:
   response: 7E804620227BC
 - expected_values:
     DURANGO_FLI_INPUT: 100
+  response: 7E804620227BD
+- expected_values:
+    DURANGO_FLI_INPUT: 100
+  response: 7E804620227BE
+- expected_values:
+    DURANGO_FLI_INPUT: 100
+  response: 7E804620227BF
+- expected_values:
+    DURANGO_FLI_INPUT: 100
+  response: 7E804620227C0
+- expected_values:
+    DURANGO_FLI_INPUT: 100
   response: 7E804620227C1
