@@ -4,5 +4,29 @@ test_cases:
     DURANGO_FL_WHL_SPD: 0
   response: '7E8056217370000'
 - expected_values:
+    DURANGO_FL_WHL_SPD: 29.10938
+  response: '7E8056217370747'
+- expected_values:
+    DURANGO_FL_WHL_SPD: 31.70312
+  response: 7E80562173707ED
+- expected_values:
     DURANGO_FL_WHL_SPD: 31.84375
   response: 7E80562173707F6
+- expected_values:
+    DURANGO_FL_WHL_SPD: 73.82812
+  response: '7E8056217371275'
+- expected_values:
+    DURANGO_FL_WHL_SPD: 79.17188
+  response: 7E80562173713CB
+- expected_values:
+    DURANGO_FL_WHL_SPD: 79.375
+  response: 7E80562173713D8
+- expected_values:
+    DURANGO_FL_WHL_SPD: 79.79688
+  response: 7E80562173713F3
+- expected_values:
+    DURANGO_FL_WHL_SPD: 80.71875
+  response: 7E805621737142E
+- expected_values:
+    DURANGO_FL_WHL_SPD: 81
+  response: '7E8056217371440'
