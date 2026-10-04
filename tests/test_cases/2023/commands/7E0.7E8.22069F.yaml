@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22069F
+test_cases:
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_T: 28
+  response: 7E80462069F5C
