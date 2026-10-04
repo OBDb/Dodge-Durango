@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220236
+test_cases:
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_3: 0.928
+  response: 7E807620236000003A0
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_3: 1.184
+  response: 7E807620236000004A0
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_3: 1.52
+  response: 7E807620236000005F0
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_3: 2.32
+  response: '7E80762023600000910'
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_3: 3.304
+  response: 7E80762023600000CE8
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_3: 3.576
+  response: 7E80762023600000DF8
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_3: 3.688
+  response: 7E80762023600000E68
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_3: 7.376
+  response: 7E80762023600001CD0
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_3: 7.72
+  response: 7E80762023600001E28
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_3: 7.728
+  response: 7E80762023600001E30
