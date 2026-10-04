@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221738
+test_cases:
+- expected_values:
+    DURANGO_FR_WHL_SPD: 0
+  response: '7E8056217380000'
+- expected_values:
+    DURANGO_FR_WHL_SPD: 34.375
+  response: '7E8056217380898'
+- expected_values:
+    DURANGO_FR_WHL_SPD: 39.5
+  response: 7E80562173809E0
+- expected_values:
+    DURANGO_FR_WHL_SPD: 55.375
+  response: 7E8056217380DD8
+- expected_values:
+    DURANGO_FR_WHL_SPD: 55.9375
+  response: 7E8056217380DFC
+- expected_values:
+    DURANGO_FR_WHL_SPD: 62.9375
+  response: 7E8056217380FBC
+- expected_values:
+    DURANGO_FR_WHL_SPD: 66.9375
+  response: 7E80562173810BC
+- expected_values:
+    DURANGO_FR_WHL_SPD: 75.25
+  response: 7E80562173812D0
+- expected_values:
+    DURANGO_FR_WHL_SPD: 76.25
+  response: '7E8056217381310'
+- expected_values:
+    DURANGO_FR_WHL_SPD: 79.875
+  response: 7E80562173813F8

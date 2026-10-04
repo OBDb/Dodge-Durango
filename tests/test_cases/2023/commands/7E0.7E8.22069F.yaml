@@ -3,3 +3,30 @@ test_cases:
 - expected_values:
     DURANGO_VARIABLE_VLV_TIM_OIL_T: 28
   response: 7E80462069F5C
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_T: 32
+  response: 7E80462069F60
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_T: 36
+  response: 7E80462069F64
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_T: 41
+  response: 7E80462069F69
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_T: 45
+  response: 7E80462069F6D
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_T: 49
+  response: 7E80462069F71
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_T: 54
+  response: 7E80462069F76
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_T: 59
+  response: 7E80462069F7B
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_T: 65
+  response: 7E80462069F81
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_T: 67
+  response: 7E80462069F83

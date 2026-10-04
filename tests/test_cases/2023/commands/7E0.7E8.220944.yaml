@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220944
+test_cases:
+- expected_values:
+    DURANGO_BRAKE_BOOSTER_P: 74.05
+  response: 7E8056209441CED
+- expected_values:
+    DURANGO_BRAKE_BOOSTER_P: 76.25
+  response: 7E8056209441DC9
+- expected_values:
+    DURANGO_BRAKE_BOOSTER_P: 76.8
+  response: 7E8056209441E00
+- expected_values:
+    DURANGO_BRAKE_BOOSTER_P: 80.65
+  response: 7E8056209441F81
+- expected_values:
+    DURANGO_BRAKE_BOOSTER_P: 82.85
+  response: 7E805620944205D

@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22012B
+test_cases:
+- expected_values:
+    DURANGO_CAT_MODEL_T: 720
+  response: 7E80562012B02D0
+- expected_values:
+    DURANGO_CAT_MODEL_T: 721
+  response: 7E80562012B02D1
+- expected_values:
+    DURANGO_CAT_MODEL_T: 748
+  response: 7E80562012B02EC
+- expected_values:
+    DURANGO_CAT_MODEL_T: 749
+  response: 7E80562012B02ED
+- expected_values:
+    DURANGO_CAT_MODEL_T: 764
+  response: 7E80562012B02FC
+- expected_values:
+    DURANGO_CAT_MODEL_T: 800
+  response: 7E80562012B0320
+- expected_values:
+    DURANGO_CAT_MODEL_T: 812
+  response: 7E80562012B032C
+- expected_values:
+    DURANGO_CAT_MODEL_T: 822
+  response: 7E80562012B0336
+- expected_values:
+    DURANGO_CAT_MODEL_T: 904
+  response: 7E80562012B0388

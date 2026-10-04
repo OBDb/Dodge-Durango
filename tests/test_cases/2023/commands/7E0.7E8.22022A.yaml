@@ -1,5 +1,14 @@
 command_id: 7E0.7E8.22022A
 test_cases:
 - expected_values:
+    DURANGO_EOP: 26.68
+  response: 7E80462022A2E
+- expected_values:
+    DURANGO_EOP: 27.26
+  response: 7E80462022A2F
+- expected_values:
+    DURANGO_EOP: 27.84
+  response: 7E80462022A30
+- expected_values:
     DURANGO_EOP: 28.42
   response: 7E80462022A31
