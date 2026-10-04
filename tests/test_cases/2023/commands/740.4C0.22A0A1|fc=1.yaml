@@ -1,6 +1,14 @@
 command_id: 740.4C0.22A0A1|fc=1
 test_cases:
 - expected_values:
+    DURANGO_TP_FL_AC: 33
+    DURANGO_TP_FR_AC: 33
+    DURANGO_TP_RL_AC: 33
+    DURANGO_TP_RR_AC: 33
+  response: |-
+    4C0100962A0A1212121
+    4C02121FF64A1212121
+- expected_values:
     DURANGO_TP_FL_AC: 37
     DURANGO_TP_FR_AC: 36
     DURANGO_TP_RL_AC: 37
