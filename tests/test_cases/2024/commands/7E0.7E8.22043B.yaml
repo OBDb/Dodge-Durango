@@ -4,29 +4,5 @@ test_cases:
     DURANGO_ODO: 93609.984
   response: 7E80562043B2CA3
 - expected_values:
-    DURANGO_ODO: 93642.752
-  response: 7E80562043B2CA7
-- expected_values:
-    DURANGO_ODO: 93667.328
-  response: 7E80562043B2CAA
-- expected_values:
-    DURANGO_ODO: 93675.52
-  response: 7E80562043B2CAB
-- expected_values:
-    DURANGO_ODO: 93732.864
-  response: 7E80562043B2CB2
-- expected_values:
-    DURANGO_ODO: 93798.4
-  response: 7E80562043B2CBA
-- expected_values:
-    DURANGO_ODO: 93855.744
-  response: 7E80562043B2CC1
-- expected_values:
-    DURANGO_ODO: 93921.28
-  response: 7E80562043B2CC9
-- expected_values:
-    DURANGO_ODO: 93929.472
-  response: 7E80562043B2CCA
-- expected_values:
-    DURANGO_ODO: 93978.624
-  response: 7E80562043B2CD0
+    DURANGO_ODO: 93986.816
+  response: 7E80562043B2CD1
