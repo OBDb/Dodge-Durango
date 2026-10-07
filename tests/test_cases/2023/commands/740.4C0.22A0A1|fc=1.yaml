@@ -17,6 +17,14 @@ test_cases:
     4C0100962A0A1202021
     4C02121FF63A1202021
 - expected_values:
+    DURANGO_TP_FL_AC: 34
+    DURANGO_TP_FR_AC: 40
+    DURANGO_TP_RL_AC: 41
+    DURANGO_TP_RR_AC: 38
+  response: |-
+    4C0100962A0A1222826
+    4C02129FF63A1222826
+- expected_values:
     DURANGO_TP_FL_AC: 37
     DURANGO_TP_FR_AC: 36
     DURANGO_TP_RL_AC: 37
@@ -24,22 +32,6 @@ test_cases:
   response: |-
     4C0100962A0A1252421
     4C02125FFFFA1252421
-- expected_values:
-    DURANGO_TP_FL_AC: 41
-    DURANGO_TP_FR_AC: 39
-    DURANGO_TP_RL_AC: 41
-    DURANGO_TP_RR_AC: 37
-  response: |-
-    4C0100962A0A1292725
-    4C02129FF63A1292725
-- expected_values:
-    DURANGO_TP_FL_AC: 41
-    DURANGO_TP_FR_AC: 40
-    DURANGO_TP_RL_AC: 41
-    DURANGO_TP_RR_AC: 38
-  response: |-
-    4C0100962A0A1292826
-    4C02129FF63A1292826
 - expected_values:
     DURANGO_TP_FL_AC: 41
     DURANGO_TP_FR_AC: 40
