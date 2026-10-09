@@ -7,5 +7,27 @@ test_cases:
     CLR_DIST: 65535
   response: |-
     7E8044131FFFF
+    7E803410D00
+    7E804410C0F7C
+    7E804410C0F68
+    7E804410C0F40
+    7E803410D00
+    7E804410C0F70
+- expected_values:
+    CLR_DIST: 65535
+  response: |-
+    7E8044131FFFF
+    7E804410C0938
+    7E803410D00
+- expected_values:
+    CLR_DIST: 65535
+  response: |-
+    7E8044131FFFF
     7E804410C0E00
+    7E803410D00
+- expected_values:
+    CLR_DIST: 65535
+  response: |-
+    7E8044131FFFF
+    7E804410C0EC0
     7E803410D00
