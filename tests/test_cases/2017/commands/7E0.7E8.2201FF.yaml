@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2201FF
+test_cases:
+- expected_values:
+    DURANGO_IAT_01FF: 42
+  response: 7E8056201FF006A
+- expected_values:
+    DURANGO_IAT_01FF: 61
+  response: 7E8056201FF007D

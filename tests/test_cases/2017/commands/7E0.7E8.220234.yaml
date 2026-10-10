@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220234
+test_cases:
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_1: 0.304
+  response: '7E80762023400000130'
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_1: 1.792
+  response: '7E80762023400000700'
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_1: 2.296
+  response: 7E807620234000008F8
+- expected_values:
+    DURANGO_INJ_WIDTH_CYL_1: 2.304
+  response: '7E80762023400000900'

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220174
+test_cases:
+- expected_values:
+    DURANGO_MAP: 23.8
+  response: '7E8056201740077'
+- expected_values:
+    DURANGO_MAP: 27.4
+  response: '7E8056201740089'

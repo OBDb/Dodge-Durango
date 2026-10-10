@@ -35,6 +35,12 @@ test_cases:
     4C0100862A0F4572F21
     4C021C3DCA0F4572F21
 - expected_values:
+    DURANGO_TP_RL: 35.422
+    DURANGO_TT_RL: 23
+  response: |-
+    4C0100862A0F4594901
+    4C02183DCA0F4594901
+- expected_values:
     DURANGO_TP_RL: 40.596
     DURANGO_TT_RL: 6
   response: |-
@@ -58,12 +64,6 @@ test_cases:
   response: |-
     4C0100862A0F4663911
     4C021C1DCA0F4663911
-- expected_values:
-    DURANGO_TP_RL: 40.596
-    DURANGO_TT_RL: 9
-  response: |-
-    4C0100862A0F4663B23
-    4C0210BDFA0F4663B23
 - expected_values:
     DURANGO_TP_RL: 41.392
     DURANGO_TT_RL: 9

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.225034
+test_cases:
+- expected_values:
+    DURANGO_MAIN_CYL_P: -40
+  response: '7E9056250340000'
