@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22069E
+test_cases:
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_P: 168
+  response: 7E80462069E2A
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_P: 200
+  response: 7E80462069E32
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_P: 204
+  response: 7E80462069E33
+- expected_values:
+    DURANGO_VARIABLE_VLV_TIM_OIL_P: 208
+  response: 7E80462069E34

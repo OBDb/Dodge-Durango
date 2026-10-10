@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2201A9
+test_cases:
+- expected_values:
+    DURANGO_KNOCK_SENS_1: 0.37598
+  response: 7E8056201A91340
+- expected_values:
+    DURANGO_KNOCK_SENS_1: 0.40528
+  response: 7E8056201A914C0
+- expected_values:
+    DURANGO_KNOCK_SENS_1: 0.41016
+  response: 7E8056201A91500
+- expected_values:
+    DURANGO_KNOCK_SENS_1: 0.61036
+  response: 7E8056201A91F40
