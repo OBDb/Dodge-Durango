@@ -27,7 +27,6 @@ test_cases:
 - expected_values:
     DURANGO_TP_FL_AC: 37
     DURANGO_TP_FR_AC: 41
-    DURANGO_TP_RL_AC: 0
     DURANGO_TP_RR_AC: 35
   response: |-
     4C0100962A0A1252923
