@@ -5,10 +5,10 @@
   "commands": [
 { "hdr": "740", "rax": "4C0", "fcm1": true, "cmd": {"22": "A0A1"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020], "from": 2027 },
   "signals": [
-    {"id": "DURANGO_TP_FL_AC", "path": "Tires", "fmt": {           "len": 8, "max": 255, "unit": "psi" }, "name": "Front left tire pressure, altitude compensated",  "suggestedMetric": "frontLeftTirePressure"},
-    {"id": "DURANGO_TP_FR_AC", "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "psi" }, "name": "Front right tire pressure, altitude compensated", "suggestedMetric": "frontRightTirePressure"},
-    {"id": "DURANGO_TP_RR_AC", "path": "Tires", "fmt": {"bix": 16, "len": 8, "max": 255, "unit": "psi" }, "name": "Rear right tire pressure, altitude compensated",  "suggestedMetric": "rearRightTirePressure"},
-    {"id": "DURANGO_TP_RL_AC", "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 255, "unit": "psi" }, "name": "Rear left tire pressure, altitude compensated",   "suggestedMetric": "rearLeftTirePressure"}
+    {"id": "DURANGO_TP_FL_AC", "path": "Tires", "fmt": {           "len": 8, "max": 255, "nullmin": 0, "unit": "psi" }, "name": "Front left tire pressure, altitude compensated",  "suggestedMetric": "frontLeftTirePressure"},
+    {"id": "DURANGO_TP_FR_AC", "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 255, "nullmin": 0, "unit": "psi" }, "name": "Front right tire pressure, altitude compensated", "suggestedMetric": "frontRightTirePressure"},
+    {"id": "DURANGO_TP_RR_AC", "path": "Tires", "fmt": {"bix": 16, "len": 8, "max": 255, "nullmin": 0, "unit": "psi" }, "name": "Rear right tire pressure, altitude compensated",  "suggestedMetric": "rearRightTirePressure"},
+    {"id": "DURANGO_TP_RL_AC", "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 255, "nullmin": 0, "unit": "psi" }, "name": "Rear left tire pressure, altitude compensated",   "suggestedMetric": "rearLeftTirePressure"}
   ]},
 { "hdr": "740", "rax": "4C0", "fcm1": true, "cmd": {"22": "A0A5"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020], "from": 2027 },
   "signals": [
@@ -103,7 +103,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "D2"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
-    {"id": "DURANGO_EOT_21D2", "path": "Engine", "fmt": {"bix": 56, "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
+    {"id": "DURANGO_EOT_21D2", "path": "Engine", "fmt": {"bix": 56, "len": 8, "max": 191, "min": -64, "add": -64, "nullmin": -64, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0109"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021], "from": 2025 },
   "signals": [
