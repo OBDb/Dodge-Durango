@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221739
+test_cases:
+- expected_values:
+    DURANGO_RL_WHL_SPD: 0
+  response: '7E8056217390000'
+- expected_values:
+    DURANGO_RL_WHL_SPD: 103.92188
+  response: 7E80562173919FB
+- expected_values:
+    DURANGO_RL_WHL_SPD: 136.75
+  response: '7E8056217392230'

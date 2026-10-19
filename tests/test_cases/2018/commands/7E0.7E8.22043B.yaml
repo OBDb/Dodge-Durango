@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22043B
+test_cases:
+- expected_values:
+    DURANGO_ODO: 123928.576
+  response: 7E80562043B3B18
+- expected_values:
+    DURANGO_ODO: 123936.768
+  response: 7E80562043B3B19
+- expected_values:
+    DURANGO_ODO: 123944.96
+  response: 7E80562043B3B1A
