@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2206C2
+test_cases:
+- expected_values:
+    DURANGO_INT_CAM_1_OFFSET: 0.2
+  response: 7E8056206C20002
+- expected_values:
+    DURANGO_INT_CAM_1_OFFSET: 50.7
+  response: 7E8056206C201FB
+- expected_values:
+    DURANGO_INT_CAM_1_OFFSET: -1.8
+  response: 7E8056206C2FFEE

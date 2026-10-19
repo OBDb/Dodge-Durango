@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220227
+test_cases:
+- expected_values:
+    DURANGO_FLI_INPUT: 75.68627
+  response: 7E804620227C1
+- expected_values:
+    DURANGO_FLI_INPUT: 76.07843
+  response: 7E804620227C2
+- expected_values:
+    DURANGO_FLI_INPUT: 76.47059
+  response: 7E804620227C3
