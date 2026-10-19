@@ -8,6 +8,12 @@ test_cases:
     4C02183DCA0F2595001
 - expected_values:
     DURANGO_TP_FR: 36.218
+    DURANGO_TT_FR: 29
+  response: |-
+    4C0100862A0F25B4F4B
+    4C0210BDEA0F25B4F4B
+- expected_values:
+    DURANGO_TP_FR: 36.218
     DURANGO_TT_FR: 32
   response: |-
     4C0100862A0F25B5201
