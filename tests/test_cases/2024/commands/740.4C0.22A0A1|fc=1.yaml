@@ -75,11 +75,11 @@ test_cases:
 - expected_values:
     DURANGO_TP_FL_AC: 39
     DURANGO_TP_FR_AC: 40
-    DURANGO_TP_RL_AC: 40
+    DURANGO_TP_RL_AC: 39
     DURANGO_TP_RR_AC: 40
   response: |-
     4C0100962A0A1272828
-    4C02128FF64A1272828
+    4C02127FF63A1272828
 - expected_values:
     DURANGO_TP_FL_AC: 39
     DURANGO_TP_FR_AC: 42
