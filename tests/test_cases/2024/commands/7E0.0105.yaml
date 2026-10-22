@@ -4,5 +4,28 @@ test_cases:
     ECT: 34
   response: 7E80341054A
 - expected_values:
+    ECT: 79
+  response: |-
+    7E803410577
+    7E804410C30A4
+    7E803410D4B
+    7E804410C2F68
+    7E804410C2F70
+    7E804410C2FB0
+    7E803410D4C
+    7E804410C302C
+- expected_values:
+    ECT: 93
+  response: |-
+    7E803410585
+    7E804410C232C
+    7E804410C2300
+    7E803410D48
+    7E804410C2294
+    7E804410C225C
+    7E804410C222C
+    7E803410D46
+    7E804410C22CC
+- expected_values:
     ECT: 103
   response: 7E80341058F

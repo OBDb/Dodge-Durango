@@ -20,11 +20,23 @@ test_cases:
     7E804410C14A4
     7E803410D11
 - expected_values:
+    TP: 21.17647
+  response: |-
+    7E803411136
+    7E804410C3100
+    7E803410D4E
+- expected_values:
     TP: 21.96078
   response: |-
     7E803411138
     7E804410C14DC
     7E803410D52
+- expected_values:
+    TP: 46.27451
+  response: |-
+    7E803411176
+    7E804410C2088
+    7E803410D55
 - expected_values:
     TP: 61.96078
   response: 7E80341119E
