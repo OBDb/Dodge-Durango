@@ -4,9 +4,6 @@ test_cases:
     DURANGO_ODO: 93609.984
   response: 7E80562043B2CA3
 - expected_values:
-    DURANGO_ODO: 94486.528
-  response: 7E80562043B2D0E
-- expected_values:
     DURANGO_ODO: 94806.016
   response: |-
     7E80562043B2D35
@@ -18,3 +15,6 @@ test_cases:
 - expected_values:
     DURANGO_ODO: 96444.416
   response: 7E80562043B2DFD
+- expected_values:
+    DURANGO_ODO: 96501.76
+  response: 7E80562043B2E04
