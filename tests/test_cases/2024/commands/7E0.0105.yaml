@@ -21,6 +21,14 @@ test_cases:
     7E803410D4C
     7E804410C302C
 - expected_values:
+    ECT: 81
+  response: |-
+    7E803410579
+    7E804410C0EAC
+    7E804410C0EBC
+    7E803410D00
+    7E804410C0ECC
+- expected_values:
     ECT: 85
   response: |-
     7E80341057D
@@ -31,6 +39,23 @@ test_cases:
     7E804410C0BC4
     7E803410D09
     7E804410C0BDC
+- expected_values:
+    ECT: 88
+  response: |-
+    7E803410580
+    7E804410C0A64
+    7E803410D00
+    7E804410C0A3C
+    7E804410C0A54
+    7E804410C0A34
+    7E803410D00
+    7E804410C0A1C
+- expected_values:
+    ECT: 88
+  response: |-
+    7E803410580
+    7E804410C1378
+    7E803410D0B
 - expected_values:
     ECT: 89
   response: |-

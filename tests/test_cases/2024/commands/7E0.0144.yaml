@@ -23,6 +23,18 @@ test_cases:
     EQ_RAT: 1
   response: |-
     7E80441448000
+    7E804410C0A60
+    7E803410D00
+- expected_values:
+    EQ_RAT: 1
+  response: |-
+    7E80441448000
+    7E804410C1350
+    7E803410D3D
+- expected_values:
+    EQ_RAT: 1
+  response: |-
+    7E80441448000
     7E804410C14B8
     7E804410C14B4
     7E803410D52
@@ -31,6 +43,17 @@ test_cases:
     7E804410C14C0
     7E803410D52
     7E804410C14D8
+- expected_values:
+    EQ_RAT: 1
+  response: |-
+    7E80441448000
+    7E804410C165C
+    7E803410D0C
+    7E804410C1630
+    7E804410C15FC
+    7E804410C15FC
+    7E803410D0C
+    7E804410C153C
 - expected_values:
     EQ_RAT: 1
   response: |-

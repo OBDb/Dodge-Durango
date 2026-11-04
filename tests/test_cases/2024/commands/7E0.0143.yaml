@@ -15,11 +15,38 @@ test_cases:
     7E803410D42
     7E804410C2948
 - expected_values:
+    LOAD_ABS: 21.56863
+  response: |-
+    7E80441430037
+    7E804410C0AF8
+    7E803410D00
+    7E804410C0AD8
+    7E804410C0ACC
+    7E804410C0AE4
+    7E803410D00
+    7E804410C0AC8
+- expected_values:
+    LOAD_ABS: 25.88235
+  response: |-
+    7E80441430042
+    7E803410D00
+    7E804410C0974
+    7E804410C0948
+    7E804410C0964
+    7E803410D00
+    7E804410C0970
+- expected_values:
     LOAD_ABS: 28.23529
   response: |-
     7E80441430048
     7E804410C0C5C
     7E803410D0C
+- expected_values:
+    LOAD_ABS: 30.19608
+  response: |-
+    7E8044143004D
+    7E804410C0E98
+    7E803410D00
 - expected_values:
     LOAD_ABS: 61.17647
   response: |-

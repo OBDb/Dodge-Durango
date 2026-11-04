@@ -7,6 +7,16 @@ test_cases:
     VSS: 0
   response: |-
     7E803410D00
+    7E803410D00
+    7E804410C0964
+    7E804410C0980
+    7E804410C0964
+    7E803410D00
+    7E804410C095C
+- expected_values:
+    VSS: 0
+  response: |-
+    7E803410D00
     7E804410C0EC4
     7E804410C0E94
     7E804410C0ECC
