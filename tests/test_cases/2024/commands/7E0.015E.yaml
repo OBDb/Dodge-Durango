@@ -4,6 +4,34 @@ test_cases:
     FUEL_RATE: 0
   response: 7E804415E0000
 - expected_values:
+    FUEL_RATE: 0
+  response: |-
+    7E804415E0000
+    7E804410C1440
+    7E803410D40
+    7E804410C141C
+    7E804410C1410
+    7E804410C141C
+    7E803410D3F
+    7E804410C13D4
+- expected_values:
+    FUEL_RATE: 1.9
+  response: |-
+    7E804415E0026
+    7E804410C0BC4
+    7E803410D00
+- expected_values:
+    FUEL_RATE: 2
+  response: |-
+    7E804415E0028
+    7E804410C0A70
+    7E803410D00
+    7E804410C0A74
+    7E804410C0A64
+    7E804410C0A6C
+    7E803410D00
+    7E804410C0A58
+- expected_values:
     FUEL_RATE: 3.3
   response: |-
     7E804415E0042
