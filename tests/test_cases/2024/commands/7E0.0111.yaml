@@ -28,6 +28,23 @@ test_cases:
     7E803410D00
     7E804410C0BC8
 - expected_values:
+    TP: 12.94118
+  response: |-
+    7E803411121
+    7E804410C0E20
+    7E803410D00
+    7E804410C0E3C
+    7E804410C0E0C
+    7E804410C0E00
+    7E803410D00
+    7E804410C0E10
+- expected_values:
+    TP: 13.33333
+  response: |-
+    7E803411122
+    7E804410C0E44
+    7E803410D00
+- expected_values:
     TP: 21.17647
   response: |-
     7E803411136
