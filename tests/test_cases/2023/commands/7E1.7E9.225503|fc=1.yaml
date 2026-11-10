@@ -4,7 +4,7 @@ test_cases:
     DURANGO_GEAR: '1'
   response: '7E90462550301'
 - expected_values:
-    DURANGO_GEAR: REAR
+    DURANGO_GEAR: REVERSE
   response: 7E9046255030B
 - expected_values:
     DURANGO_GEAR: PARK
