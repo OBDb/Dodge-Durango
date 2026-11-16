@@ -53,5 +53,5 @@ test_cases:
     7E8044143009C
     7E803410D0B
 - expected_values:
-    LOAD_ABS: 93.72549
-  response: 7E804414300EF
+    LOAD_ABS: 95.68627
+  response: 7E804414300F4
